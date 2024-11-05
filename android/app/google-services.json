@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "952000302017",
+    "firebase_url": "https://wqm-system-15117-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wqm-system-15117",
+    "storage_bucket": "wqm-system-15117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952000302017:android:76dfcb3a332b9c0eb0bd40",
+        "android_client_info": {
+          "package_name": "com.example.fyp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHWkFX285n8QmOLstVHa4VbSzKKGMbFkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952000302017:android:1f10edef9832c6f1b0bd40",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHWkFX285n8QmOLstVHa4VbSzKKGMbFkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952000302017:android:789137bcec0f23fcb0bd40",
+        "android_client_info": {
+          "package_name": "com.example.waterqualitymanagemen_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHWkFX285n8QmOLstVHa4VbSzKKGMbFkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
